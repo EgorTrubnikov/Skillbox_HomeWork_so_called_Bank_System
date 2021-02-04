@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skillbox_HomeWork_13.1-14", "Skillbox_HomeWork_13.1\Skillbox_HomeWork_13.1-14.csproj", "{1E440D61-46C2-49BD-B6F2-187BEB8A124F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Exception_HW15", "Library_Exception_HW15\Library_Exception_HW15.csproj", "{203A4F43-E9E2-4EF6-84B3-B54074336FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E440D61-46C2-49BD-B6F2-187BEB8A124F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E440D61-46C2-49BD-B6F2-187BEB8A124F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E440D61-46C2-49BD-B6F2-187BEB8A124F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E440D61-46C2-49BD-B6F2-187BEB8A124F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203A4F43-E9E2-4EF6-84B3-B54074336FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203A4F43-E9E2-4EF6-84B3-B54074336FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203A4F43-E9E2-4EF6-84B3-B54074336FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203A4F43-E9E2-4EF6-84B3-B54074336FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDFE3F7-7402-4C91-B5EC-51D2A90F0BB4}
+	EndGlobalSection
+EndGlobal
